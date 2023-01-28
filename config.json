@@ -1,0 +1,177 @@
+{
+  "MemorialDaysConfig": [
+    {
+      "Year": 2023,
+      "MemorialDays": [{
+        "Date":"1.1",
+        "Memorial": "元旦节"
+      },
+        {
+          "Date":"1.4",
+          "Memorial": "四周年"
+        },
+        {
+          "Date":"1.11",
+          "Memorial": "学长阴历生日"
+        },
+        {
+          "Date":"1.12",
+          "Memorial": "学长妈妈生日"
+        },
+        {
+          "Date":"1.14",
+          "Memorial": "北方小年"
+        },
+        {
+          "Date":"1.20",
+          "Memorial": "学长阳历生日"
+        },
+        {
+          "Date":"1.21",
+          "Memorial": "除夕"
+        },
+        {
+          "Date":"1.22",
+          "Memorial": "春节"
+        },
+        {
+          "Date":"2.5",
+          "Memorial": "元宵节"
+        },
+        {
+          "Date":"2.11",
+          "Memorial": "领证一周年，1500天"
+        },
+        {
+          "Date":"2.14",
+          "Memorial": "情人节"
+        },
+        {
+          "Date":"3.4",
+          "Memorial": "50个月"
+        },
+        {
+          "Date":"3.8",
+          "Memorial": "妇女节"
+        },
+        {
+          "Date":"3.14",
+          "Memorial": "白色情人节"
+        },
+        {
+          "Date":"3.18",
+          "Memorial": "学长妈妈生日"
+        },
+        {
+          "Date":"4.5",
+          "Memorial": "清明节"
+        },
+        {
+          "Date":"5.1",
+          "Memorial": "劳动节"
+        },
+        {
+          "Date":"5.14",
+          "Memorial": "母亲节"
+        },
+        {
+          "Date":"5.20",
+          "Memorial": "学长爸爸生日"
+        },
+        {
+          "Date":"5.22",
+          "Memorial": "1600天"
+        },
+        {
+          "Date":"6.1",
+          "Memorial": "儿童节"
+        },
+        {
+          "Date":"6.18",
+          "Memorial": "父亲节"
+        },
+        {
+          "Date":"6.22",
+          "Memorial": "端午节"
+        },
+        {
+          "Date":"7.1",
+          "Memorial": "建党节"
+        },
+        {
+          "Date":"7.2",
+          "Memorial": "学妹爸爸生日"
+        },
+        {
+          "Date":"8.1",
+          "Memorial": "建军节"
+        },
+        {
+          "Date":"8.22",
+          "Memorial": "七夕节"
+        },
+        {
+          "Date":"8.30",
+          "Memorial": "1700天"
+        },
+        {
+          "Date":"9.29",
+          "Memorial": "中秋节"
+        },
+        {
+          "Date":"10.1",
+          "Memorial": "国庆节"
+        },
+        {
+          "Date":"10.5",
+          "Memorial": "结婚一周年"
+        },
+        {
+          "Date":"10.31",
+          "Memorial": "万圣节"
+        },
+        {
+          "Date":"11.4",
+          "Memorial": "学妹阴历生日"
+        },
+        {
+          "Date":"11.13",
+          "Memorial": "学妹阳历生日"
+        },
+        {
+          "Date":"11.23",
+          "Memorial": "感恩节"
+        },
+        {
+          "Date":"12.8",
+          "Memorial": "1800天"
+        },
+        {
+          "Date":"12.24",
+          "Memorial": "平安夜"
+        },
+        {
+          "Date":"12.25",
+          "Memorial": "圣诞节"
+        }
+      ]
+    },
+    {
+      "Year": 2024,
+      "MemorialDays": [
+        {
+          "Date":"1.1",
+          "Memorial": "元旦节"
+        },
+        {
+          "Date":"1.4",
+          "Memorial": "五周年"
+        },
+        {
+          "Date":"1.20",
+          "Memorial": "学长阳历生日"
+        }
+      ]
+    }
+  ]
+}
