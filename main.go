@@ -7,7 +7,7 @@ import (
 
 func main() {
 	var path string
-	flag.StringVar(&path, "file", "configs.json", "The file path of the calendar")
+	flag.StringVar(&path, "file", "config.json", "The file path of the calendar")
 	flag.Parse()
 
 	calendar := &Calendar{}

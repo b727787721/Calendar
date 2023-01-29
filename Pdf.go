@@ -30,14 +30,14 @@ const (
 
 	// Line para
 	SplitLineX1 = 20
-	SplitLineY1 = 100
+	SplitLineY1 = 103
 	SplitLineX2 = 90
-	SplitLineY2 = 100
+	SplitLineY2 = 103
 
 	ImageYPos   = 123
 	ImageXPos   = 45
-	ImageWidth  = 40
-	ImageHeight = 40
+	ImageWidth  = 49.7
+	ImageHeight = 41.7
 
 	Utf8Font      = "utf8"
 	ZmxFont       = "zmx"
